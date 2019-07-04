@@ -1,3 +1,3 @@
 # vincentsijben.github.io
 
-dit is mijn pagina
+my GitHub Pages homepage
